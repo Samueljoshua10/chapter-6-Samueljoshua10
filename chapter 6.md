@@ -14,7 +14,7 @@ Any version of Ubuntu Server 18.04 LTS will do (e.g. Ubuntu Server 18.04.3 LTS)
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](image/codingpics.jpeg
+![Alt Text](image/codingpics.jpeg)
 
 ## Project 6-2
 
@@ -22,7 +22,7 @@ Insert the screen capture
 
 This is where you would add SATA disks
 
-![add Storage](image/pics%202.jpeg
+![add Storage](image/pics%202.jpeg)
 
 ### Step 5: Typo
 
@@ -52,7 +52,7 @@ Insert the screen capture
 
 Insert the screen capture that shows the quota and compression configurations have been set according to the instruction.
 <!-- TODO -->
-![Alt Text](image/pics%204.jpeg
+![Alt Text](image/pics%204.jpeg)
 ## Project 6-4
 
 ### Step 3: Missing instruction
@@ -67,7 +67,7 @@ Insert the screen capture that shows the quota and compression configurations ha
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](image/pics5.jpeg
+![Alt Text](image/pics5.jpeg)
 
 ## Project 6-5
 
@@ -114,7 +114,7 @@ Choose “64-bit PC (AMD64) server install image” for download.
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](image/pic6.jpeg
+![Alt Text](image/pic6.jpeg)
 
 ## Command Reference
 
