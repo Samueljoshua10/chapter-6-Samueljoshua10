@@ -44,7 +44,7 @@ The drive does not have enough space so it couldn't be evenly distribed
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](image/pics7.jpeg
+![Alt Text](image/pics7.jpeg)
 
 ## Project 6-3
 
